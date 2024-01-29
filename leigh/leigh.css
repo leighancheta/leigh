@@ -1,0 +1,9 @@
+body{
+  background: aqua;
+}
+h1{
+  text-align: center;
+}
+div{
+  flex-wrap: wrap;
+}
