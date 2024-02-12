@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  background: mistyrose;
+  font-size: 90px;
+  color: black;
+  font-family: "fantasy","papyrus";
+}
+p{
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  font-style: italic;
+}
+body{
+  background-image: url("pink.jpg");
+  align-content: center;
+}
+h2{
+  text-align: center;
+  background: black;
+  font-size: 50px;
+  color: lightpink;
+  font-weight: bold;
+  font-family: "fantasy","papyrus";
+}
+div{
+  flex-wrap: wrap;
+  align-content: center;
+  
+}
